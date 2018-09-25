@@ -1,4 +1,4 @@
 # python
-## python学习笔记
+python学习笔记
 
--[matplotlib学习笔记](https://github.com/sunyongkun/python/tree/master/matplotlib)
+[matplotlib学习笔记](https://github.com/sunyongkun/python/tree/master/matplotlib)
